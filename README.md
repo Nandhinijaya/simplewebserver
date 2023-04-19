@@ -51,7 +51,7 @@ print("my webserver is running...")
 httpd.serve_forever()
 ```
 ## OUTPUT:
-![Uploading out1.png…]()
+![out1](https://user-images.githubusercontent.com/121998147/233122245-10af61bc-472b-4e60-854d-a6c80d687301.png)
 
 ![out2](https://user-images.githubusercontent.com/121998147/233122152-82f906cc-ce02-4c88-af1c-6709c5907b53.png)
 
