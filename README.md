@@ -52,7 +52,10 @@ httpd.serve_forever()
 ```
 ## OUTPUT:
 ![Uploading out1.png…]()
-![out2](https://user-images.githubusercontent.com/121998147/233121403-ea67cb91-61ec-43c0-afc9-2faa15aedece.png)
+
+![out2](https://user-images.githubusercontent.com/121998147/233122152-82f906cc-ce02-4c88-af1c-6709c5907b53.png)
+
+
 
 
 ## RESULT:
